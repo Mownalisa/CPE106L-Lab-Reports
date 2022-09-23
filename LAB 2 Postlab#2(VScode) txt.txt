@@ -1,0 +1,5 @@
+Line 1 "Hello".
+line 2 "This is line 2".
+line 3 "3+3 is christmas tree".
+line 4 "forty-four".
+line 5 "5 times 0 is 0".
